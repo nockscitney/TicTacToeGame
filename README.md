@@ -1,4 +1,4 @@
-#TicTacToe
+# TicTacToe
 
 This is a personal project, where I'm taking the idea of a simple game, Tic-Tac-Toe in this instance, and developing the game in a way to work on better coding practices.  
 
