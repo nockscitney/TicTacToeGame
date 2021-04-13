@@ -14,3 +14,19 @@ F:\Development\VS\Learning\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0
 F:\Development\VS\Learning\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\ref\Tic Tac Toe Console.dll
 F:\Development\VS\Learning\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\Tic Tac Toe Console.pdb
 F:\Development\VS\Learning\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.genruntimeconfig.cache
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.exe
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.deps.json
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.runtimeconfig.json
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.runtimeconfig.dev.json
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.dll
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\ref\Tic Tac Toe Console.dll
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\bin\Debug\net5.0\Tic Tac Toe Console.pdb
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.csprojAssemblyReference.cache
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.AssemblyInfoInputs.cache
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.AssemblyInfo.cs
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.csproj.CoreCompileInputs.cache
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\Tic Tac Toe Console.dll
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\ref\Tic Tac Toe Console.dll
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\Tic Tac Toe Console.pdb
+F:\Development\Games\TicTacToe\TicTacToe\TicTacToeConsole\obj\Debug\net5.0\TicTacToeConsole.genruntimeconfig.cache

@@ -146,25 +146,34 @@ namespace NickScotney.Games.TicTacToe.ConsoleApp
         }
 
         static void PrintBoard()
-        { 
+        {
+            //  Clear the current console and write a header
+            Console.Clear();
+            Console.Write("Tic-Tac-Toe");
+
+            //  Loop each cell on the game board, and print the correct value
             for (int i = 0; i < 9; i++)
             {
-                //  Print the board
-                //  X or O for the counter value 
-                //  X = 1, O = 2, 0 = un-occupied
-                if (gameBoard[i] == 0)
-                    Console.Write(".");
-                else if(gameBoard[i] == 1)
-                    Console.Write("X");
-                else if (gameBoard[i] == 2)
-                    Console.Write("O");
-
-                //  Start a new Line
-                if ((i == 2)
-                    || i == 5)
+                //  Check if 'i' is divisible by 3 and if so we need to write a new line
+                if ((i % 3) == 0)
                     Console.WriteLine();
-            }
 
+                //  Print the board
+                //  X, O or . for the counter value (. = 0, X = 1, O = 2)
+                switch (gameBoard[i])
+                {
+                    case 0:
+                        Console.Write(".");
+                        break;
+                    case 1:
+                        Console.Write("X");
+                        break;
+                    case 2:
+                        Console.Write("O");
+                        break;
+                }
+            }
+            //  Adds a new line after printing the board
             Console.WriteLine();
         }
     }
