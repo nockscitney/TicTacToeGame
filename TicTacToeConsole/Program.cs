@@ -82,6 +82,8 @@ namespace NickScotney.Games.TicTacToe.ConsoleApp
             PrintBoard();
         }
 
+
+        //  Do the initial creation and setup of the game board
         static void InitializeBoard()
         {
             gameBoard = new int[9];
@@ -90,11 +92,13 @@ namespace NickScotney.Games.TicTacToe.ConsoleApp
                 gameBoard[i] = 0;
         }
 
+        //  Check to see whether the move is valid or not
         static bool IsValidMove(int boardIndex)
             => ((boardIndex >= 0)
                 && boardIndex < 9)
                 && gameBoard[boardIndex] == 0;
 
+        //  Check to see if the current board has a win condition
         static int IsWinCondition()
         {
             //  Check win conditions here
@@ -145,6 +149,7 @@ namespace NickScotney.Games.TicTacToe.ConsoleApp
             return -1;
         }
 
+        //  Print the board to the screen
         static void PrintBoard()
         {
             //  Clear the current console and write a header
